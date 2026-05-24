@@ -309,7 +309,7 @@ Possible future features:
 ---
 # 👨‍💻 Author
 
-## Iqra Parvez
+## Iqra A
 
 Frontend Developer passionate about building modern web applications and improving UI/UX experiences using React.
 
