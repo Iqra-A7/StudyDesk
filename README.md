@@ -21,8 +21,6 @@ The project focuses on learning React fundamentals, component-based architecture
 ## Empty State UI
 ![Empty State](./src/empty-state.png)
 
----
-
 # ✨ Features
 
 ## 📚 Subject Management
