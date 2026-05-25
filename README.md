@@ -9,17 +9,19 @@ The project focuses on learning React fundamentals, component-based architecture
 
 # 📸 Preview
 
+# 📸 Preview
+
 ## Dashboard Overview
 ![Dashboard](./screenshots/dashboard-overview.PNG)
 
 ## Task Manager
-![Tasks](./screenshots/task-manager.PNG)
+![Task Manager](./screenshots/task-manager.PNG)
 
 ## Subject Management
-![Subjects](./screenshots/manage subject.PNG)
+![Subject Management](./screenshots/manage-subject.PNG)
 
-## Manage Subject
-![Manage Subject](./screenshots/manage subject.PNG)
+## Empty Task State
+![Empty State](./screenshots/empyt-task.PNG)
 
 # ✨ Features
 
