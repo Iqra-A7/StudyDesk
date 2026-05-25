@@ -16,7 +16,7 @@ The project focuses on learning React fundamentals, component-based architecture
 ![Tasks](./screenshots/task-manager.PNG)
 
 ## Subject Management
-![Subjects](./screenshots/subjects-page.PNG)
+![Subjects](./screenshots/manage subject.PNG)
 
 ## Manage Subject
 ![Manage Subject](./screenshots/manage subject.PNG)
