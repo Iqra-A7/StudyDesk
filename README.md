@@ -7,7 +7,6 @@ The project focuses on learning React fundamentals, component-based architecture
 
 ---
 
-# 📸 Preview
 
 # 📸 Preview
 
