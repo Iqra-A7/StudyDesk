@@ -18,8 +18,8 @@ The project focuses on learning React fundamentals, component-based architecture
 ## Subject Management
 ![Subjects](./screenshots/subjects-page.PNG)
 
-## Empty State
-![Empty](./screenshots/empty-state.PNG)
+## Manage Subject
+![Manage Subject](./screenshots/manage subject.PNG)
 
 # ✨ Features
 
